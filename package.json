@@ -1,0 +1,12 @@
+{
+  "name": "qa-sample-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny throwaway app for testing the qa-bug-hunt skill",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=20" }
+}
